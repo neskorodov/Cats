@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Британские кошки</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #4caf50;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Британские кошки с прямыми ушами</h1>
+    </header>
+    <main>
+        <h2>О породе</h2>
+        <p>Британские кошки с прямыми ушами — это одна из самых популярных пород в мире. Они известны своим спокойным характером, плюшевой шерстью и выразительными глазами. Эти кошки идеально подходят для содержания в квартире.</p>
+        <h2>Характеристики</h2>
+        <ul>
+            <li><strong>Размер:</strong> Средний или крупный</li>
+            <li><strong>Шерсть:</strong> Короткая, плотная, напоминающая плюш</li>
+            <li><strong>Окрас:</strong> Разнообразный, включая голубой, белый, черный и другие</li>
+            <li><strong>Характер:</strong> Дружелюбный, спокойный, независимый</li>
+        </ul>
+        <h2>Фотографии</h2>
+        <img src="https://placekitten.com/800/400" alt="Британский кот 1">
+        <img src="https://placekitten.com/800/401" alt="Британский кот 2">
+        <img src="https://placekitten.com/800/402" alt="Британский кот 3">
+    </main>
+    <footer>
+        <p>© 2024 Информация о британских кошках</p>
+    </footer>
+</body>
+</html>
